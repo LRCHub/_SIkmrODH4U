@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Chain",
+  "base_artist": "BACK-ON",
+  "createdAt": "2025-12-26T05:39:08.142049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Great Chain of Being",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_The_Great_Chain_of_Being_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Great Chain of Being",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_The_Great_Chain_of_Being_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gold Watch And Chain - Remastered",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/03_Gold_Watch_And_Chain_-_Remastered_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gold Watch and Chain (2002 Remaster) (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/04_Gold_Watch_and_Chain_(2002_Remaster)_(Remastered_LP_Version)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Chain of Love",
+      "artist": "Clay Walker feat. Ed Seay",
+      "has_synced": true,
+      "path": "select/05_The_Chain_of_Love_Clay_Walker_feat._Ed_Seay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Chain of Love",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/06_The_Chain_of_Love_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "There Ain't No Good Chain Gang",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_There_Ain't_No_Good_Chain_Gang_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Chain Reaction",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/08_Chain_Reaction_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bruised Orange (Chain of Sorrow)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/09_Bruised_Orange_(Chain_of_Sorrow)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ball & Chain",
+      "artist": "Murder By Death",
+      "has_synced": true,
+      "path": "select/10_Ball_&_Chain_Murder_By_Death.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chain That Door",
+      "artist": "Mudhoney",
+      "has_synced": false,
+      "path": "select/11_Chain_That_Door_Mudhoney.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hello, Chain",
+      "artist": "Nicolas Jaar",
+      "has_synced": false,
+      "path": "select/12_Hello,_Chain_Nicolas_Jaar.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chain of Command",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/13_Chain_of_Command_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wisdom Chain",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/14_Wisdom_Chain_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wisdom Chain (single edit)",
+      "artist": "Jon & Vangelis",
+      "has_synced": false,
+      "path": "select/15_Wisdom_Chain_(single_edit)_Jon_&_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't Chain My Heart",
+      "artist": "TOTO",
+      "has_synced": false,
+      "path": "select/16_Don't_Chain_My_Heart_TOTO.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Chain My Heart",
+      "artist": "Toto",
+      "has_synced": false,
+      "path": "select/17_Don't_Chain_My_Heart_Toto.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Chain",
+      "artist": "BACK-ON",
+      "has_synced": false,
+      "path": "select/pl_01_Chain_BACK-ON.txt"
+    }
+  ]
+}
